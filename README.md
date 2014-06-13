@@ -1,4 +1,4 @@
-vimrc
+.vim
 =====
 
-Nan's Vim editor setting file.
+Running time configuration for vim, including vimrc file and plugins.
