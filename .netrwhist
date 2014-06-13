@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/nawu/Projects/voldemort/config/single_node_cluster/config'
+let g:netrw_dirhist_2='/Users/nawu/Downloads/gflags-2.1.1/src'
+let g:netrw_dirhist_3='/Users/nawu/Projects/arrowhead-py'
+let g:netrw_dirhist_4='/Users/nawu/Projects/arrowhead-py/src'
+let g:netrw_dirhist_5='/Users/nawu/Projects/DotCi/work'
+let g:netrw_dirhist_6='/Users/nawu/.vim/vimrc'
