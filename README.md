@@ -1,4 +1,4 @@
 .vim
 =====
 
-Running time configuration for vim, including vimrc file and plugins.
+Runtime configuration for vim, including vimrc file and plugins.
