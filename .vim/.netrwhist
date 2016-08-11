@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/bytesflow/projects/cpython/Lib/asyncio'
+let g:netrw_dirhist_2='/home/bytesflow/projects/ocaml/asmrun'
+let g:netrw_dirhist_3='/home/bytesflow/projects/ocaml/lex'
+let g:netrw_dirhist_4='/home/bytesflow/projects/kudu/python/kudu'
+let g:netrw_dirhist_5='/home/bytesflow/projects/kudu/src/kudu/consensus'
+let g:netrw_dirhist_6='/home/bytesflow/projects/kudu/src/kudu/common'
