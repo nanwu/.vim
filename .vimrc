@@ -9,6 +9,8 @@ set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 
+nnoremap <C-L> :tabn<CR>
+nnoremap <C-H> :tabp<CR>
 
 hi User1 ctermfg=254 ctermbg=088
 hi User2 ctermfg=233  ctermbg=214
